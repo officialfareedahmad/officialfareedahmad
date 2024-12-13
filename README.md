@@ -18,12 +18,12 @@ Welcome to my GitHub profile! I'm a **computer science student** passionate abou
 7. **Personalized Recommendation System** – Tailored suggestions using collaborative filtering techniques.  
 8. **To-Do List Application** – Dynamic and interactive Python-based task manager.  
  
-
+<!-- 
 ## 🧠 Core Areas of Expertise:
 - **Machine Learning:** Regression, Classification, Clustering, and Model Optimization.  
 - **Deep Learning:** Neural Networks, CNNs, RNNs, and GANs.  
 - **Natural Language Processing:** Sentiment Analysis, Text Classification, and Chatbots.  
-- **Data Science:** Data Cleaning, Feature Engineering, and Visualization using Matplotlib and Seaborn.  
+- **Data Science:** Data Cleaning, Feature Engineering, and Visualization using Matplotlib and Seaborn.   -->
 
 <!-- ## ✨ Highlights:
 - 📂 Developed AI projects leveraging datasets from platforms like **Kaggle** and **UCI ML Repository**.  
